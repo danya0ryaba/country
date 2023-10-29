@@ -1,5 +1,6 @@
 {
-  "name": "countries",
+  "name": "country",
+  "homepage": "https://danya0ryaba.github.io/country",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
